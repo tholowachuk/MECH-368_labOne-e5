@@ -1,4 +1,4 @@
-﻿namespace MECH_368_labOne_e6
+﻿namespace MECH_368_labOne_e5
 {
     partial class serialDemo
     {
